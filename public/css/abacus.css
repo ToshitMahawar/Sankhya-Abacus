@@ -1,0 +1,1405 @@
+.Abacus-border{
+    height: 200px;
+    width:855px;
+    border:2px solid black;
+    position:relative;
+    top:300px; 
+    box-shadow: 10px 10px 10px brown; 
+    font-weight: bolder;
+    font-size:900; 
+}
+.Sankhya{
+  position:relative;
+  top:-200px;
+  left:-120px;
+  font-weight: bolder;
+  font-size:900; 
+}
+
+.bold-Horizontal-line {
+  width: 853px; /* Make the line span the full width */
+  height: 5px; /* Set the thickness of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:25px;
+}
+
+.bold-Vertical-line1{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:absolute;
+  top:-20px;
+  left:15px;
+  margin:20px;
+  transition: top 0.5s linear;
+  overflow: visible;
+}
+.bold-Vertical-line2{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-47px;
+  left:59px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line3{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-268px;
+  left:108px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line4{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-489px;
+  left:152px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line5{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-705px;
+  left:196px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line6{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-928px;
+  left:240px; 
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line7{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-1147px;
+  left:284px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line8{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-1366px;
+  left:338px;
+  margin:20px;
+  overflow: visible;  
+}
+.bold-Vertical-line9{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-1589px;
+  left:382px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line10{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-1807px;
+  left:426px;
+  margin:20px;
+  overflow: visible;
+}
+
+.bold-Vertical-line11{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-2027px;
+  left:470px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line12{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-2247px;
+  left:514px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line13{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-2467px;
+  left:558px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line14{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-2687px;
+  left:602px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line15{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-2907px;
+  left:646px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line16{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-3127px;
+  left:690px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line17{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top:-3347px;
+  left:734px;
+  margin:20px;
+  overflow: visible;
+}
+.bold-Vertical-line18{
+  width:5px ; /* Make the line span the width */
+  height:200px; /* Set the length of the line */
+  background-color: black; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical spacing */
+  position:relative;
+  top: -3566px;
+  left:775px;
+  margin:20px;
+  overflow: visible;
+}
+
+.abacus{
+  position:relative;
+  left:290px;
+}
+.bead-upper {
+  position: relative;
+  transition: transform 0.3s ease;
+  z-index: 1;
+}
+
+.bead-upper:active{
+  z-index: 10;
+}
+
+.bead-upper.up {
+  transform: translateY(-9px);
+  z-index: 10;
+}
+
+.Abacus-upper-bead1{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3770px;
+  left:-273px;
+  margin:10px;
+  display:inline-block;
+  pointer-events: auto;
+  cursor: pointer;
+}
+.Abacus-upper-bead2{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:-218px;
+  display:inline-block;
+  cursor: pointer;
+  overflow: visible;
+ } 
+ .Abacus-upper-bead3{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3759px;
+  left:-169px;
+  overflow: visible;
+ }
+ .Abacus-upper-bead4{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:-126px;
+  overflow: visible;
+  }  
+  .Abacus-upper-bead5{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:-81px;
+  overflow: visible;
+  }
+  .Abacus-upper-bead6{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:-38px;
+  overflow: visible;
+  }
+  .Abacus-upper-bead7{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:7px;
+  overflow: visible;
+}
+.Abacus-upper-bead8{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:60px;
+  overflow: visible;
+}
+ .Abacus-upper-bead9{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:105px;
+  overflow: visible;
+} 
+.Abacus-upper-bead10{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:148px;
+  overflow: visible;
+}
+.Abacus-upper-bead11{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:191px;
+  overflow: visible;
+  }
+.Abacus-upper-bead12{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:236px;
+  overflow: visible;
+  }
+.Abacus-upper-bead13{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: -3760px;
+  left:279px;
+  overflow: visible;
+  }
+.Abacus-upper-bead14{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:324px;
+  overflow: visible;
+  }
+.Abacus-upper-bead15{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:367px;
+  overflow: visible;
+  }
+.Abacus-upper-bead16{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:412px;
+  overflow: visible;
+  }
+.Abacus-upper-bead17{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:455px;
+  overflow: visible;
+  }
+.Abacus-upper-bead18{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:-3760px;
+  left:497px;
+  overflow: visible;
+  }
+  
+  h3{
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  position : relative;
+  left:600px;
+}
+  .Bead-1{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 76px;
+  left: 27px;
+  }
+.Bead-2{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 95px;
+  left:27px;
+}
+.Bead-3{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:114px;
+  left:27px;
+}
+.Bead-4{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top:133px;
+  left:27px;
+}
+.Bead-5{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position: absolute;
+  bottom:4000px;
+  top:75px;
+  left:72px;
+}
+.Bead-6{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position: absolute;
+  bottom:4000px;
+  top:94px;
+  left:72px;
+}
+.Bead-7{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position: absolute;
+  bottom:4000px;
+  top:113px;
+  left:72px;
+}
+.Bead-8{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position: absolute;
+  bottom:4000px;
+  top:132px;
+  left:72px;
+}
+.Bead-9{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:121px;
+  bottom:4000px;
+}
+.Bead-10{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:121px;
+  bottom:4000px;
+}
+.Bead-11{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 112px;
+  left:121px;
+  bottom:4000px;
+}
+.Bead-12{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 130px;
+  left:121px;
+  bottom:4000px;
+}
+.Bead-13{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:164px;
+  bottom:4000px;
+}
+.Bead-14{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:164px;
+  bottom:4000px;
+}
+.Bead-15{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:164px;
+  bottom:4000px;
+}
+.Bead-16{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:164px;
+  bottom:4000px;
+}
+.Bead-17{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:209px;
+  bottom:4000px;
+}
+.Bead-18{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:209px;
+  bottom:4000px;
+}
+.Bead-19{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:209px;
+  bottom:4000px;
+}
+.Bead-20{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:209px;
+  bottom:4000px;
+}
+.Bead-21{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:253px;
+  bottom:4000px;
+}
+.Bead-22{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:253px;
+  bottom:4000px;
+}
+.Bead-23{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:253px;
+  bottom:4000px;
+}
+.Bead-24{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left: 253px;
+  bottom:4000px;
+}
+.Bead-25{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:296px;
+  bottom:4000px;
+}
+.Bead-26{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:296px;
+  bottom:4000px;
+}
+.Bead-27{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:296px;
+  bottom:4000px;
+}
+.Bead-28{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:296px;
+  bottom:4000px;
+}
+.Bead-29{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:350px;
+  bottom:4000px;
+}
+.Bead-30{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:350px;
+  bottom:4000px;
+}
+.Bead-31{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:350px;
+  bottom:4000px;
+}
+.Bead-32{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:350px;
+  bottom:4000px;
+}
+.Bead-33{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:394px;
+  bottom:4000px;
+}
+.Bead-34{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:394px;
+  bottom:4000px;
+}
+.Bead-35{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:394px;
+  bottom:4000px;
+}
+.Bead-36{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:394px;
+  bottom:4000px;
+}
+.Bead-37{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:438px;
+  bottom:4000px;
+}
+.Bead-38{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:438px;
+  bottom:4000px;
+}
+.Bead-39{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:438px;
+  bottom:4000px;
+}
+.Bead-40{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:438px;
+  bottom:4000px;
+}
+.Bead-41{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:482px;
+  bottom:4000px;
+}
+.Bead-42{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:482px;
+  bottom:4000px;
+}
+.Bead-43{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:482px;
+  bottom:4000px;
+}
+.Bead-44{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:482px;
+  bottom:4000px;
+}
+.Bead-45{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:526px;
+  bottom:4000px;
+}
+.Bead-46{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:526px;
+  bottom:4000px;
+}
+.Bead-47{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:526px;
+  bottom:4000px;
+}
+.Bead-48{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:526px;
+  bottom:4000px;
+}
+.Bead-49{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:570px;
+  bottom:4000px;
+}
+.Bead-50{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:570px;
+  bottom:4000px;
+}
+.Bead-51{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:570px;
+  bottom:4000px;
+}
+.Bead-52{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:570px;
+  bottom:4000px;
+}
+.Bead-53{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:614px;
+  bottom:4000px;
+}
+.Bead-54{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:614px;
+  bottom:4000px;
+}
+.Bead-55{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:614px;
+  bottom:4000px;
+}
+.Bead-56{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:614px;
+  bottom:4000px;
+}
+.Bead-57{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:658px;
+  bottom:4000px;
+}
+.Bead-58{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:658px;
+  bottom:4000px;
+}
+.Bead-59{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:658px;
+  bottom:4000px;
+}
+.Bead-60{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:658px;
+  bottom:4000px;
+}
+.Bead-61{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:703px;
+  bottom:4000px;
+}
+.Bead-62{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:703px;
+  bottom:4000px;
+}
+.Bead-63{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:703px;
+  bottom:4000px;
+}
+.Bead-64{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:703px;
+  bottom:4000px;
+}
+.Bead-65{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:747px;
+  bottom:4000px;
+}
+.Bead-66{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:747px;
+  bottom:4000px;
+}
+.Bead-67{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:747px;
+  bottom:4000px;
+}
+.Bead-68{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:747px;
+  bottom:4000px;
+}
+.Bead-69{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 75px;
+  left:787px;
+  bottom:4000px;
+}
+.Bead-70{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 94px;
+  left:787px;
+  bottom:4000px;
+}
+.Bead-71{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 113px;
+  left:787px;
+  bottom:4000px;
+}
+.Bead-72{
+  height:20px;
+  width:20px;
+  border-radius: 50%;
+  border:2px solid turquoise;
+  background-color:aqua;
+  position:absolute;
+  top: 132px;
+  left:787px;
+  bottom:4000px;
+}
+
+button{
+     font-weight:900px;
+     position:absolute;
+     bottom:-120px;
+     left:30px;
+}
+button:active{
+     background-color: rgb(212, 0, 255);
+}
+h3{
+  font-weight:900px;
+  position:absolute;
+  bottom: -170px;
+  left:15px;
+}
+.dot-Abacus1{
+  height:5px;
+  width:5px;
+  border-radius: 50%;
+  border:2px solid #fff;
+  background-color:#fff;
+  position:absolute;
+  top: 46px;
+  left:127px;
+  bottom:4000px;
+}
+.dot-Abacus2{
+  height:5px;
+  width:5px;
+  border-radius: 50%;
+  border:2px solid #fff;
+  background-color:#fff;
+  position:absolute;
+  top: 46px;
+  left:259px;
+  bottom:4000px;
+}
+.dot-Abacus3{
+  height:5px;
+  width:5px;
+  border-radius: 50%;
+  border:2px solid #fff;
+  background-color:#fff;
+  position:absolute;
+  top: 46px;
+  left:402px;
+  bottom:4000px;
+}
+.dot-Abacus4{
+  height:5px;
+  width:5px;
+  border-radius: 50%;
+  border:2px solid #fff;
+  background-color:#fff;
+  position:absolute;
+  top: 46px;
+  left:534px;
+  bottom:4000px;
+}
+.dot-Abacus5{
+  height:5px;
+  width:5px;
+  border-radius: 50%;
+  border:2px solid #fff;
+  background-color:#fff;
+  position:absolute;
+  top: 46px;
+  left:666px;
+  bottom:4000px;
+}
+.calculator{
+  height:40rem;
+  width:30rem;
+  border:2px solid #000000;
+  border-radius: 5rem;
+  position:absolute;
+  top:35rem;
+  left:25rem;
+  background-color:dodgerblue;
+}
+.display{
+  border:2px solid black;
+  border-radius: 5rem;
+  height: 5rem;
+  width: 28rem;
+  position:absolute;
+  top: 20px;
+  left:16px;
+  background-color: #fff;
+}
+
+
+
+/* 
+navBar */
+.navbar{
+    height:5rem;
+    background-color: white;
+    position:fixed;
+    width:100%;
+}
+.fa-compass{
+    color:#fe424d;
+    font-size:2rem;
+}
+.nav-link{
+    color:#222222 !important;
+}
+.navbar-toggler{
+  width:20%;
+}
+
+
+/* Footer */
+
+.f-info-links a{
+    text-decoration: none;
+    color:#222222;
+}
+.f-info-links a:hover{
+    text-decoration: underline;
+}
+.f-info{
+    text-align: center;
+    display:flex;
+    height:8rem;
+    width:1200px;
+    position : absolute fixed;
+    left: 0;
+    top: 25rem;
+    right:-1rem;
+    background-color: #ebebeb;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: space-evenly;
+}
+.f-info-links,.f-info-social,.f-info-brand{
+    width:100%;
+    vertical-align: middle;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.f-info-social i{
+    font-size:1.2rem;
+    margin-right: 1rem;
+}
+
+h1{
+  font-family: cursive;
+  position:absolute fixed;
+  left: 5rem;
+}
+
+.Abacus-image{
+  height:4rem;
+  width:4rem;
+}
