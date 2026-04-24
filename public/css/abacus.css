@@ -1398,8 +1398,22 @@ h1{
   position:absolute fixed;
   left: 5rem;
 }
-
 .Abacus-image{
   height:4rem;
   width:4rem;
+}
+.button {
+  width:100px;
+  height:40px;
+  background-color: #4CAF50;
+  color: blue;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-primary{
+  position:absolute;
+  left: 20rem;
+  bottom:5rem;
+
 }

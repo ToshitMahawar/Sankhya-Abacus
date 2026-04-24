@@ -27,7 +27,7 @@ function textSlider() {
         }
     }
 
-    setTimeout(textSlider, isDeleting ? 80 : 120);
+    setTimeout(textSlider, isDeleting ? 50 : 100);
 }
 
 textSlider();

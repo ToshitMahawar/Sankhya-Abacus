@@ -1,0 +1,94 @@
+.box{
+    height: 120px;
+    width: 50px;
+    border : 2px solid black;
+    display:inline-block;
+}
+
+.input{
+    width: 100%;
+}
+
+.line{
+    height: 2px;
+    width: 100%;
+    background-color:greenyellow;
+}
+.bead{
+    height: 20px;
+    width: 20px;
+    background-color: #fe6b42;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+/* 
+navBar */
+.navbar{
+    height:5rem;
+    background-color: white;
+    position:fixed;
+    width:100%;
+}
+.fa-compass{
+    color:#fe424d;
+    font-size:2rem;
+}
+.nav-link{
+    color:#222222 !important;
+}
+.navbar-toggler{
+  width:20%;
+}
+
+
+/* Footer */
+
+.f-info-links a{
+    text-decoration: none;
+    color:#222222;
+}
+.f-info-links a:hover{
+    text-decoration: underline;
+}
+.f-info{
+    text-align: center;
+    display:flex;
+    height:8rem;
+    width:1200px;
+    position : absolute fixed;
+    left: 0;
+    top: 25rem;
+    right:-1rem;
+    background-color: #ebebeb;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items: space-evenly;
+}
+.f-info-links,.f-info-social,.f-info-brand{
+    width:100%;
+    vertical-align: middle;
+    display:flex;
+    align-items: center;
+    justify-content:center;
+}
+.f-info-social i{
+    font-size:1.2rem;
+    margin-right: 1rem;
+}
+
+h1{
+  font-family: cursive;
+  position:absolute fixed;
+  left: 5rem;
+}
+.Abacus-image{
+  height:4rem;
+  width:4rem;
+}
+.correct{
+    background: linear-gradient(#d87327,#fff,#0bf40c);
+}
+.wrong{
+    border: 2px solid #fe424d;
+    background-color: #fe4277;
+}
