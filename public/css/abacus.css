@@ -8,10 +8,10 @@
     font-weight: bolder;
     font-size:900; 
 }
-.Sankhya{
+.Sankhya{              
   position:relative;
   top:-200px;
-  left:-120px;
+  left:10px;
   font-weight: bolder;
   font-size:900; 
 }
@@ -1359,7 +1359,9 @@ navBar */
 
 
 /* Footer */
-
+footer{
+  width:100%;
+}
 .f-info-links a{
     text-decoration: none;
     color:#222222;
