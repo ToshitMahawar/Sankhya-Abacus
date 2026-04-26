@@ -3,6 +3,7 @@
     width: 50px;
     border : 2px solid black;
     display:inline-block;
+    background-color: white;
 }
 
 .input{
@@ -91,4 +92,15 @@ h1{
 .wrong{
     border: 2px solid #fe424d;
     background-color: #fe4277;
+}
+body{
+    background: linear-gradient(270deg,#2d87d2,#b825da,#da5d25,#2dd297);
+    background-size: 400% 400%;
+    animation: gradientMove 10s ease infinite;
+}
+
+@keyframes gradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
