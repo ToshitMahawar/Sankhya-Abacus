@@ -1356,8 +1356,53 @@ navBar */
 .navbar-toggler{
   width:20%;
 }
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  position: relative;
+  z-index: 1000;
+}
 
+.nav-links a {
+  margin: 0 20px;
+  text-decoration: none;
+  font-size: 18px;
+}
 
+.toggle {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.toggle span {
+  width: 25px;
+  height: 3px;
+  background: black;
+  margin: 4px;
+  transition: 0.3s;
+}
+@media (max-width: 768px) {
+  .nav-links {
+    position: absolute;
+    right: 0;
+    top: 60px;
+    background: white;
+    flex-direction: column;
+    width: 200px;
+    display: none;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .toggle {
+    display: flex;
+  }
+}
 /* Footer */
 footer{
   width:100% !important;
