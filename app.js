@@ -67,7 +67,7 @@ app.use((req,res,next)=>{
 // });
 
 //index route
-app.get("/Home",(req,res)=>{
+app.get("/",(req,res)=>{
     res.render("Route/index.ejs");
 });
 
