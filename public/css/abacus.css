@@ -1360,7 +1360,7 @@ navBar */
 
 /* Footer */
 footer{
-  width:100%;
+  width:100% !important;
 }
 .f-info-links a{
     text-decoration: none;
