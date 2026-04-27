@@ -1,5 +1,6 @@
 
     <%- layout("/layout/boilerplate2")%>
+    
     <div class="Sankhya">
         <div class="Abacus-border">
             <div class="bold-Horizontal-line"></div>
@@ -125,11 +126,48 @@
                 <div class="dot-Abacus5"></div>
                 <div class="dot-Abacus6"></div>
             </div>
-            <button class="clear"><i class="fa-sharp-duotone fa-solid fa-circle-stop"></i></button>
+            <button class="Toggle"><i class="fa-sharp-duotone fa-solid fa-circle-stop"></i></button>
             <h3>Toggle</h3>
         </div>
     </div>
-    
+    <!-- Calculator -->
+     <div class="calculator">
+        <div class="display"><span>0</span></div>
+        <br>
+        <div class="row1">
+            <div class="all_clear"><button class="clear">C</button></div>
+            <div class="eraser"><button class="erase"><i class="fa-solid fa-backspace"></i></button></div>
+            <div class="percentage"><button class="per">%</button></div>
+            <div class="divide"><button class="divide1"><i class="fa-solid fa-divide"></i></button></div>
+        </div>
+        <div class="row2">
+            <div class="seven"><button class="seven">7</button></div>
+            <div class="eight"><button class="eight">8</button></div>
+            <div class="nine"><button class="nine">9</button></div>
+            <div class="multiplication"><button class="mul"><i class="fa-solid fa-xmark"></i></button></div>
+        </div>
+        <div class="row3">
+            <div class="four"><button class="four">4</button></div>
+            <div class="five"><button class="five">5</button></div>
+            <div class="six"><button class="six">6</button></div>
+            <div class="substraction"><button class="sub"><i class="fa-solid fa-minus"></i></button></div>
+        </div>
+        <div class="row4">
+            <div class="one"><button class="one">1</button></div>
+            <div class="two"><button class="two">2</button></div>
+            <div class="three"><button class="three">3</button></div>
+            <div class="Addition"><button class="Add"><i class="fa-sharp fa-solid fa-plus"></i></button></div>
+        </div>
+        <div class="row5">
+            <div class="zero"><button class="zero">0</button></div>
+            <div class="decimal"><button class="decimal"><span class="dot">.</span></button></div>
+            <div class="equal"><button class="equal"><i class="fa-solid fa-equals"></i></button></div>
+     </div>
+     <div class="row6">
+        <div class="history">
+            <button class="his">History of calculation</button>
+        </div>
+     </div>
 
     
     <script src="/js/abacus.js"></script>
