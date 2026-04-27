@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  const button = document.querySelectorByClass(".clear");
+  const button = document.querySelector(".clear");
   const beads = document.querySelectorAll(".bead-upper");
 
   let isUp = false;

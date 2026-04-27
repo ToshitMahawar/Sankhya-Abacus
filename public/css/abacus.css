@@ -1624,7 +1624,7 @@ span{
     top:-8px;
 }
 .his{
-    background: linear-gradient(270deg,#d2cd2d,#b825da);
+    background: linear-gradient(270deg,#2dcad2,#b825da);
     background-size: 400% 400%;
     animation: gradientMove 10s ease infinite;
 }
