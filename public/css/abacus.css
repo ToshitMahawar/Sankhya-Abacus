@@ -1626,11 +1626,19 @@ span{
 .his{
     background: linear-gradient(270deg,#2dcad2,#b825da);
     background-size: 400% 400%;
-    animation: gradientMove 10s ease infinite;
+    animation: gradientwave 10s ease infinite;
 }
 
-@keyframes gradientMove {
+@keyframes gradientwave {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
+}
+.bead-upper {
+  transform: translateY(0);
+  transition: 0.3s;
+}
+
+.bead-upper.up {
+  transform: translateY(-30px);
 }
